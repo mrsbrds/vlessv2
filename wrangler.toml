@@ -7,3 +7,5 @@ enabled = true
 
 [observability.logs]
 enabled = true
+
+UUID = "1574fb05-bd01-4d1b-98ae-5cb3409e2c92"

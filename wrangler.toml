@@ -8,4 +8,5 @@ enabled = true
 [observability.logs]
 enabled = true
 
+PROXYIP = "103.168.146.169,20132,ID,Pt Herza Digital Indonesia"
 UUID = "1574fb05-bd01-4d1b-98ae-5cb3409e2c92"
